@@ -23,8 +23,7 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 - What are the most popular car colors in the dataset? 
 - Are there any noticeable pricing trends based on car make and mileage?
 
-
-#CAR INVENTORY ANALYSIS PROJECT
+# CAR INVENTORY ANALYSIS PROJECT
 
 ## Table of Content
 
