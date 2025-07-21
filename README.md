@@ -16,7 +16,7 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 - Identification of key factors affecting car pricing and inventory trends. 
 - Actionable insights for decision-making in car pricing and inventory planning.
 
-- ## Key Questions 
+## Key Questions 
 - What is the general price distribution of cars in the inventory? 
 - How does mileage impact the price of a car? 
 - Which car brands are most commonly available in the inventory? 
